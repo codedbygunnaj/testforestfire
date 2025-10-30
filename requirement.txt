@@ -1,0 +1,8 @@
+flask
+request
+jsonify
+render_template
+pickle
+numpy
+pandas
+scikit-learn
